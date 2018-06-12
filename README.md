@@ -1,2 +1,0 @@
-# Cliente
-projeto de android
